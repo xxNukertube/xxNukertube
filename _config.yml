@@ -1,0 +1,22 @@
+# Site settings
+title: "zschzen"
+bye_message: "Obrigado!"
+baseurl: "/"
+url: "https://zschzen.github.io"
+disqus: zschzen
+
+# Header settings
+nick: "zschzen"
+mail:
+    domain: "protonmail"
+    ext: "com"
+source_code: 
+    server: "github.com"
+    nick: "zschzen"
+insta: 
+    server: "instagram.com"
+    nick: "zschzen"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
